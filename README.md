@@ -1,4 +1,4 @@
-### 50Days-50Projects - HTML/CSS and JavaScript
+## 50Days-50Projects - HTML/CSS and JavaScript
 
 Day |          Project         | Live Demo
 --- | ------------------------ | ---------
