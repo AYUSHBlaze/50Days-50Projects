@@ -2,4 +2,4 @@
 
 Day |          Project         | Live Demo
 --- | ------------------------ | ---------
-01  |      Expanding Cards     | (Demo)[https://50Days-50Projects-greaterDay1.ayushblaze.repl.co]
+01  |      Expanding Cards     | [Demo](https://50Days-50Projects-greaterDay1.ayushblaze.repl.co)
