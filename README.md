@@ -8,6 +8,7 @@ Day |          Project         | Live Demo
 04  |      [Hidden Search](https://github.com/AYUSHBlaze/50Days-50Projects/tree/master/Day4)       | [Demo](https://50days-50projects-day4.ayushblaze.repl.co)
 05  |
 06  |
+07  |
 
 
 <br>
