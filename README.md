@@ -9,7 +9,7 @@ Day |          Project         | Live Demo
 05  |
 06  |
 07  |
-
+08  |
 
 <br>
 <br>
