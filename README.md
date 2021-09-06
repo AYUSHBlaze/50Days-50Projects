@@ -6,7 +6,7 @@ Day |          Project         | Live Demo
 02  |      [Progress Steps](https://github.com/AYUSHBlaze/50Days-50Projects/tree/master/Day2)      | [Demo](https://50Days-50Projects-Day2.ayushblaze.repl.co)
 03  |      [Rotating Navigation](https://github.com/AYUSHBlaze/50Days-50Projects/tree/master/Day3) | [Demo](https://50days-50projects-day3.ayushblaze.repl.co)
 04  |      [Hidden Search](https://github.com/AYUSHBlaze/50Days-50Projects/tree/master/Day4)       | [Demo](https://50days-50projects-day4.ayushblaze.repl.co)
-05  |
+05  |      [Blurry Loading](https://github.com/AYUSHBlaze/50Days-50Projects/tree/master/Day5)      | [Demo](https://50days-50projects-day5.ayushblaze.repl.co)
 06  |
 07  |
 08  |
